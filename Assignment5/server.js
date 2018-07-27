@@ -1,17 +1,3 @@
-/*********************************************************************************
-* WEB322 – Assignment 05
-* I declare that this assignment is my own work in accordance with Seneca Academic Policy. No part of this
-* assignment has been copied manually or electronically from any other source (including web sites) or
-* distributed to other students.
-*
-* Name: Namra Rupesh Fanse Student ID: 112219175 Date: 25/7/2018
-*
-* Online (Heroku) Link: https://assignment5web322.herokuapp.com/
-*
-********************************************************************************/ 
-
-
-
 const express = require('express');
 const app = express();
 const path = require('path');
